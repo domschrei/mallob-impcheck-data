@@ -10,7 +10,7 @@ dir="$1"
 function compute_data() {
 
 	# qtimes
-	for f in $dir/table-{nolrat,otfc,otfcc,proof,nolratkcl,gimsatul*}-*node* ; do
+	for f in $dir/table-{nolrat,otfcc,proof,nolratkcl,gimsatul*}-*node* ; do
 		sort -k 1,1b $f -o $f
 		cat $f | sed 's/ 20V / 20 /g' | awk '$3 > 0 {print $2,$3,$4}' | sort -k 1,1b > $(echo $f | sed 's/table-/qtimes-/g')
 	done
@@ -49,7 +49,7 @@ function compute_data() {
 		| sed 's/ 20V / 20 /g' | awk '$3 != 0 && NF == 5 {print $2,$3,$5}' | sort -k 1,1b > $(echo $f | sed 's/ramtable-/qram-/g')
 	done
 	# cdf
-	for f in $dir/qtimes-{nolrat,otfc,otfcc,proof,nolratkcl,gimsatul*}-* ; do
+	for f in $dir/qtimes-{nolrat,otfcc,proof,nolratkcl,gimsatul*}-* ; do
 		cat $f|awk '{print $3}' | sort -g | awk '{print $1,NR}' > $(echo $f | sed 's/qtimes-/cdf-/g')
 	done
 
@@ -73,7 +73,7 @@ function compute_data() {
 	done
 
 	# relative {time,tup,tuv,ram} overheads
-	for op in otfc otfcc proof; do
+	for op in otfcc proof; do
 		for f in $dir/qtimes-${op}-*node* $dir/qtup-${op}-*node* $dir/qtuv-${op}-*node* $dir/qram-${op}-*node* ; do
 			if [ ! -f $f ]; then continue ; fi
 			base=$(echo $f | sed 's/-'$op'-/-nolrat-/g' | sed 's/qtup/qtimes/g' | sed 's/qtuv/qtimes/g')
