@@ -1,0 +1,400 @@
+1 /home/hk-project-toolbox/fj0219/instances/2023/rphp_p30_r30.cnf 0 1800
+10 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-9880.cnf 20 34.965 233.220
+100 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_6_3_8.bul_.dimacs.cnf 10 33.199
+101 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-43.cnf 10 0.661
+102 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H8_M2-bL4cM6NJ_m4_5_U14.c.cnf 20 25.460 189.827
+103 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-17400.cnf 20 57.054 427.370
+104 /home/hk-project-toolbox/fj0219/instances/2023/rbsat-v1150c84314gyes10.cnf 10 11.540
+105 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_39.cnf 10 9.424
+106 /home/hk-project-toolbox/fj0219/instances/2023/mrpp_8x8#22_10.cnf 20 0.470 0.589
+107 /home/hk-project-toolbox/fj0219/instances/2023/sgen1-unsat-97-100.cnf.mis-72.debugged.cnf 20 2.074 5.372
+108 /home/hk-project-toolbox/fj0219/instances/2023/stb_531_83.apx_2_DC-AD.cnf 20 5.680 131.223
+109 /home/hk-project-toolbox/fj0219/instances/2023/9vliw_bp_mc.shuffled.cnf 20 3.766 4.790
+11 /home/hk-project-toolbox/fj0219/instances/2023/oisc-subrv-and-nested-14.cnf 0 1800
+110 /home/hk-project-toolbox/fj0219/instances/2023/brent_69_0.cnf 10 0.642
+111 /home/hk-project-toolbox/fj0219/instances/2023/baseballcover13with25_and3positions.cnf 20 169.807 293.973
+112 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_38.cnf 10 11.388
+113 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_30.cnf 20 116.648 191.793
+114 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-7200.cnf 20 30.648 178.543
+115 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_473_E_50_Cl_32_D_6_T_50.cnf 10 15.221
+116 /home/hk-project-toolbox/fj0219/instances/2023/DivU_624_11.cnf.sanitized.cnf 20 5.666 6.170
+117 /home/hk-project-toolbox/fj0219/instances/2023/46bits_11.dimacs.cnf 10 1.676
+118 /home/hk-project-toolbox/fj0219/instances/2023/FileObject_open_12.cnf 20 126.076
+119 /home/hk-project-toolbox/fj0219/instances/2023/ER_400_20_4.apx_1_DC-ST.cnf 20 3.050 87.371
+12 /home/hk-project-toolbox/fj0219/instances/2023/mchess20-mixed-25percent-blocked.cnf 20 121.456 172.544
+120 /home/hk-project-toolbox/fj0219/instances/2023/php17-mixed-15percent-blocked.cnf 0 1800
+121 /home/hk-project-toolbox/fj0219/instances/2023/Grain_no_init_ver1_out200_known_last105_0_u.cnf 20 9.360 51.216
+122 /home/hk-project-toolbox/fj0219/instances/2023/new-difficult-26-243-24-70.cnf 10 0.295
+123 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_473_E_49_Cl_32_D_6_T_50.cnf 10 13.414
+124 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-84.cnf 10 0.761
+125 /home/hk-project-toolbox/fj0219/instances/2023/REGRandom-K4-L2-Seed20.cnf 0 1800
+126 /home/hk-project-toolbox/fj0219/instances/2023/6s165.cnf 20 1.490 1.983
+127 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_29.cnf 20 108.301 180.587
+128 /home/hk-project-toolbox/fj0219/instances/2023/intervals467.cnf 0 1800
+129 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-900-29.cnf 10 7.661
+13 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-12300.cnf 20 43.601 272.256
+130 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_7_3_9.bul_.dimacs.cnf 0 1800
+131 /home/hk-project-toolbox/fj0219/instances/2023/sat-bench-trig-bhaskara.cnf 20 83.927 118.325
+132 /home/hk-project-toolbox/fj0219/instances/2023/sat-bench-trig-taylor2.cnf 20 104.036 175.364
+133 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H6_M2-4XKSMr_m1_3_U25.c.cnf 20 16.619 91.499
+134 /home/hk-project-toolbox/fj0219/instances/2023/collections_namedtuple_15.cnf 0 1800
+135 /home/hk-project-toolbox/fj0219/instances/2023/shuffling-1-s1870372346-of-bench-sat04-423.used-as.sat04-562.cnf 10 2.552
+136 /home/hk-project-toolbox/fj0219/instances/2023/c499_gr_2pin_w6.shuffled.cnf 10 0.341
+137 /home/hk-project-toolbox/fj0219/instances/2023/or_randxor_k3_n640_m640.cnf 20 178.206 667.079
+138 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-42.cnf 10 27.143
+139 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-46.cnf 10 9.916
+14 /home/hk-project-toolbox/fj0219/instances/2023/intervals222.cnf 0 1800
+140 /home/hk-project-toolbox/fj0219/instances/2023/PRP_20_50.cnf 10 14.024
+141 /home/hk-project-toolbox/fj0219/instances/2023/mchess22-mixed-35percent-blocked.cnf 0 1800
+142 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_d3_n200.cnf 0 1800
+143 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_6_4_6.bul_.dimacs.cnf 10 4.973
+144 /home/hk-project-toolbox/fj0219/instances/2023/LZMAFile_write_12.cnf 20 99.067
+145 /home/hk-project-toolbox/fj0219/instances/2023/REGRandom-K3-L3-Seed10.cnf 0 1800
+146 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-86.cnf 10 1.572
+147 /home/hk-project-toolbox/fj0219/instances/2023/par32-4.shuffled.cnf 10 29.536
+148 /home/hk-project-toolbox/fj0219/instances/2023/grs-128-64.cnf 20 48.554 475.966
+149 /home/hk-project-toolbox/fj0219/instances/2023/grs-160-64.cnf 20 61.421 739.375
+15 /home/hk-project-toolbox/fj0219/instances/2023/5col100_15_6.shuffled.cnf 20 1.619 6.984
+150 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_481_E_49_Cl_32_D_6_T_50.cnf 10 16.167
+151 /home/hk-project-toolbox/fj0219/instances/2023/SGI_30_70_27_50_3-dir.shuffled-as.sat03-169.cnf 20 9.998 269.035
+152 /home/hk-project-toolbox/fj0219/instances/2023/FileObject_open_13.cnf 0 1800
+153 /home/hk-project-toolbox/fj0219/instances/2023/25_2.cnf 0 1800
+154 /home/hk-project-toolbox/fj0219/instances/2023/170223547.cnf 10 0.427
+155 /home/hk-project-toolbox/fj0219/instances/2023/crafted_n12_d6_c4_num4.cnf 20 23.011 37.859
+156 /home/hk-project-toolbox/fj0219/instances/2023/velev-pipe-o-uns-1.0-7.cnf 20 25.801
+157 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_23.cnf 20 76.416 116.685
+158 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_550.cnf 0 1800
+159 /home/hk-project-toolbox/fj0219/instances/2023/grs-96-192.cnf 0 1800
+16 /home/hk-project-toolbox/fj0219/instances/2023/brent_15_0.25.cnf 20 24.347 97.190
+160 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_11.cnf 20 37.173 46.638
+161 /home/hk-project-toolbox/fj0219/instances/2023/LZMAFile___init___14.cnf 0 1800
+162 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_6_4_6.bul_.dimacs.cnf 0 1800
+163 /home/hk-project-toolbox/fj0219/instances/2023/shift1add.28943.cnf 20 13.932 40.994
+164 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_32_90_10.apx_1_DC-AD.cnf 20 92.620 1768.648
+165 /home/hk-project-toolbox/fj0219/instances/2023/g2-ak128astepbg2asisc.cnf 10 0.763
+166 /home/hk-project-toolbox/fj0219/instances/2023/ibm-2004-03-k70.cnf 10 1.239
+167 /home/hk-project-toolbox/fj0219/instances/2023/mchess22-mixed-45percent-blocked.cnf 0 1800
+168 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_16.cnf 20 53.516 74.055
+169 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_40.cnf 10 9.325
+17 /home/hk-project-toolbox/fj0219/instances/2023/rook-47-0-1.cnf 0 1800
+170 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H15_M2-kwhXs2juqFoKAYA_m12_13_U16.c.cnf 20 13.459 82.759
+171 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_490_E_50_Cl_33_D_6_T_50.cnf 10 27.476
+172 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-50.cnf 10 0.708
+173 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_250.cnf 0 1800
+174 /home/hk-project-toolbox/fj0219/instances/2023/grid-pbl-0150.shuffled-as.sat05-1347.shuffled-as.sat05-1347.cnf 20 0.615 0.813
+175 /home/hk-project-toolbox/fj0219/instances/2023/19_2.cnf 0 1800
+176 /home/hk-project-toolbox/fj0219/instances/2023/intervals802.cnf 0 1800
+177 /home/hk-project-toolbox/fj0219/instances/2023/brent_65_0.1.cnf 10 0.603
+178 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_15.cnf 20 46.810 65.197
+179 /home/hk-project-toolbox/fj0219/instances/2023/Schur_161_5_d40.cnf 20 10.523 81.308
+18 /home/hk-project-toolbox/fj0219/instances/2023/26_1.cnf 0 1800
+180 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_35.cnf 10 10.230
+181 /home/hk-project-toolbox/fj0219/instances/2023/mchess20-mixed-45percent-blocked.cnf 20 143.365 215.566
+182 /home/hk-project-toolbox/fj0219/instances/2023/WS_500_16_90_70.apx_2_DC-ST.cnf 20 3.423 58.997
+183 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_473_E_46_Cl_32_D_6_T_50.cnf 0 1800
+184 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_488_E_50_Cl_33_D_6_T_50.cnf 10 29.197
+185 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_24_70_10.apx_2_DC-AD.cnf 20 6.422 176.945
+186 /home/hk-project-toolbox/fj0219/instances/2023/WS_500_16_70_10.apx_2_DC-ST.cnf 20 3.653 66.972
+187 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-11900.cnf 20 45.571 279.069
+188 /home/hk-project-toolbox/fj0219/instances/2023/connm-ue-csp-sat-n600-d-0.02-s1022905465.used-as.sat04-951.cnf 10 0.278
+189 /home/hk-project-toolbox/fj0219/instances/2023/grs-32-160.cnf 20 100.026 981.084
+19 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H10_M2-BPHqhzNzqi_m5_6_U14.c.cnf 20 27.885 148.237
+190 /home/hk-project-toolbox/fj0219/instances/2023/23_2.cnf 10 47.497
+191 /home/hk-project-toolbox/fj0219/instances/2023/20_2.cnf 0 1800
+192 /home/hk-project-toolbox/fj0219/instances/2023/17_0.cnf 0 1800
+193 /home/hk-project-toolbox/fj0219/instances/2023/grs-48-256.cnf 0 1800
+194 /home/hk-project-toolbox/fj0219/instances/2023/CNFPlus_from_fp_12.cnf 20 165.455
+195 /home/hk-project-toolbox/fj0219/instances/2023/gensys-icl002.shuffled-as.sat05-2714.cnf 20 1.296 1.690
+196 /home/hk-project-toolbox/fj0219/instances/2023/ER_400_20_7.apx_1_DC-ST.cnf 20 3.933 121.171
+197 /home/hk-project-toolbox/fj0219/instances/2023/intervals7.cnf 0 1800
+198 /home/hk-project-toolbox/fj0219/instances/2023/or_randxor_k3_n600_m600.cnf 0 1800
+199 /home/hk-project-toolbox/fj0219/instances/2023/intervals633.cnf 0 1800
+2 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-18800.cnf 20 60.174 392.254
+20 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-1000-18.cnf 10 2.670
+200 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H10_M2-pH7B6T6Vub_m6_7.c.cnf 10 10.453
+201 /home/hk-project-toolbox/fj0219/instances/2023/multiplier_16bits__miter_19.cnf 0 1800
+202 /home/hk-project-toolbox/fj0219/instances/2023/preimage_80r_490m_160h_seed_150.cnf 10 57.922
+203 /home/hk-project-toolbox/fj0219/instances/2023/rovers1_ks99i.renamed-as.sat05-3971.cnf 10 0.275
+204 /home/hk-project-toolbox/fj0219/instances/2023/C208_FA_UT_3254.cnf 20 0.342 0.483
+205 /home/hk-project-toolbox/fj0219/instances/2023/stb_588_138.apx_2_DC-ST.cnf 20 3.425 51.869
+206 /home/hk-project-toolbox/fj0219/instances/2023/grs-192-32.cnf 20 26.783 215.707
+207 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_600.cnf 0 1800
+208 /home/hk-project-toolbox/fj0219/instances/2023/DivU_1520_10.cnf.sanitized.cnf 20 5.420 5.908
+209 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_14.cnf 20 43.008 54.849
+21 /home/hk-project-toolbox/fj0219/instances/2023/square.2.0.i.smt2-cvc4.cnf 20 1.505 1.823
+210 /home/hk-project-toolbox/fj0219/instances/2023/lisa19_99_a.shuffled.cnf 10 0.425
+211 /home/hk-project-toolbox/fj0219/instances/2023/CNF_to_alien_12.cnf 20 116.821
+212 /home/hk-project-toolbox/fj0219/instances/2023/stb_792_333.apx_1_DS-ST.cnf 10 1.170
+213 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_6_3_8.bul_.dimacs.cnf 10 1.401
+214 /home/hk-project-toolbox/fj0219/instances/2023/StreamReader_readline_13.cnf 0 1800
+215 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_24_90_10.apx_1_DS-ST.cnf 20 68.992 1182.907
+216 /home/hk-project-toolbox/fj0219/instances/2023/IBM_FV_2004_rule_batch_1_31_1_SAT_dat.k40.debugged.cnf 20 45.254 158.043
+217 /home/hk-project-toolbox/fj0219/instances/2023/DivS_862_11.cnf.sanitized.cnf 10 4.763
+218 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_10.cnf 20 36.412 45.273
+219 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_8_4_8.bul_.dimacs.cnf 0 1800
+22 /home/hk-project-toolbox/fj0219/instances/2023/qwh.40.560.shuffled-as.sat03-1654.cnf 10 0.500
+220 /home/hk-project-toolbox/fj0219/instances/2023/ncc_none_7047_6_3_3_0_0_420.cnf 20 131.480 142.248
+221 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_477_E_50_Cl_32_D_6_T_50.cnf 10 15.371
+222 /home/hk-project-toolbox/fj0219/instances/2023/grs-32-256.cnf 20 285.279
+223 /home/hk-project-toolbox/fj0219/instances/2023/WCNF_from_fp_14.cnf 0 1800
+224 /home/hk-project-toolbox/fj0219/instances/2023/10pipe_q0_k.cnf 20 55.873 64.278
+225 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_481_E_50_Cl_32_D_6_T_50.cnf 10 14.358
+226 /home/hk-project-toolbox/fj0219/instances/2023/WCNF_from_fp_13.cnf 0 1800
+227 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H8_M2-I61h2mH5_m2_6.c.cnf 10 20.095
+228 /home/hk-project-toolbox/fj0219/instances/2023/grs-192-160.cnf 0 1800
+229 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-19500.cnf 20 61.042 438.986
+23 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_6_3_8.bul_.dimacs.cnf 0 1800
+230 /home/hk-project-toolbox/fj0219/instances/2023/mchess18-mixed-45percent-blocked.cnf 20 17.445 45.377
+231 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-80.cnf 10 0.699
+232 /home/hk-project-toolbox/fj0219/instances/2023/sgen3-n260-s62321009-sat.cnf 0 1800
+233 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_41.cnf 10 10.955
+234 /home/hk-project-toolbox/fj0219/instances/2023/minxor128.cnf 20 17.012 91.101
+235 /home/hk-project-toolbox/fj0219/instances/2023/REGRandom-K4-L1-Seed5.cnf 0 1800
+236 /home/hk-project-toolbox/fj0219/instances/2023/iso-ukn004.shuffled-as.sat05-3385.cnf 10 0.288
+237 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_d3_n160.cnf 0 1800
+238 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H7_M2-OrF8zEw_m2_4.c.cnf 10 9.256
+239 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_7_3_9.bul_.dimacs.cnf 0 1800
+24 /home/hk-project-toolbox/fj0219/instances/2023/ER_500_10_2.apx_1_DS-ST.cnf 0 1800
+240 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-40.cnf 10 0.663
+241 /home/hk-project-toolbox/fj0219/instances/2023/grs-192-48.cnf 20 42.709 413.367
+242 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-18600.cnf 20 57.067 372.856
+243 /home/hk-project-toolbox/fj0219/instances/2023/DecompressReader_read_12.cnf 20 117.453
+244 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-18400.cnf 20 57.845 355.099
+245 /home/hk-project-toolbox/fj0219/instances/2023/grs-128-32.cnf 20 18.036 133.773
+246 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-19800.cnf 20 66.000 588.042
+247 /home/hk-project-toolbox/fj0219/instances/2023/30_2.cnf 0 1800
+248 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-41.cnf 10 0.704
+249 /home/hk-project-toolbox/fj0219/instances/2023/intervals753.cnf 0 1800
+25 /home/hk-project-toolbox/fj0219/instances/2023/rand_net50-60-10.shuffled.cnf 20 3.339 6.735
+250 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_27.cnf 20 94.203 156.201
+251 /home/hk-project-toolbox/fj0219/instances/2023/intervals327.cnf 0 1800
+252 /home/hk-project-toolbox/fj0219/instances/2023/PRP_40_40.cnf 10 13.095
+253 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H8_M2-nm2vUdkK_m3_5_U3.c.cnf 20 28.531
+254 /home/hk-project-toolbox/fj0219/instances/2023/31_1.cnf 0 1800
+255 /home/hk-project-toolbox/fj0219/instances/2023/php16-mixed-15percent-blocked.cnf 0 1800
+256 /home/hk-project-toolbox/fj0219/instances/2023/satch2ways16w.cnf 20 112.572 743.994
+257 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_grid_n260_m260.cnf 0 1800
+258 /home/hk-project-toolbox/fj0219/instances/2023/grs-192-256.cnf 0 1800
+259 /home/hk-project-toolbox/fj0219/instances/2023/PRP_200_100.cnf 0 1800
+26 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-81.cnf 10 0.676
+260 /home/hk-project-toolbox/fj0219/instances/2023/brent_13_0.1.cnf 20 14.537 43.789
+261 /home/hk-project-toolbox/fj0219/instances/2023/CNP-5-1100.cnf 10 9.012
+262 /home/hk-project-toolbox/fj0219/instances/2023/cliquecoloring_n12_k9_c8.cnf 20 72.558 524.916
+263 /home/hk-project-toolbox/fj0219/instances/2023/mrpp_6x6#18_20.cnf 10 2.334
+264 /home/hk-project-toolbox/fj0219/instances/2023/pbl-00070.shuffled-as.sat05-1324.shuffled-as.sat05-1324.cnf 20 0.364 0.491
+265 /home/hk-project-toolbox/fj0219/instances/2023/grs-64-160.cnf 20 163.659
+266 /home/hk-project-toolbox/fj0219/instances/2023/or_randxor_k3_n560_m560.cnf 0 1800
+267 /home/hk-project-toolbox/fj0219/instances/2023/instance_n6_i6_pp_ci_ce.cnf 10 0.454
+268 /home/hk-project-toolbox/fj0219/instances/2023/intervals313.cnf 0 1800
+269 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H7_M2-K1zfAs8_m0_3_U5.c.cnf 20 12.235 90.327
+27 /home/hk-project-toolbox/fj0219/instances/2023/grs-64-32.cnf 20 10.255 46.419
+270 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-11400.cnf 20 44.997 248.642
+271 /home/hk-project-toolbox/fj0219/instances/2023/cliquecoloring_n14_k9_c8.cnf 0 1800
+272 /home/hk-project-toolbox/fj0219/instances/2023/REGRandom-K4-L4-Seed10.cnf 0 1800
+273 /home/hk-project-toolbox/fj0219/instances/2023/multiplier_13bits__miter_15.cnf 20 45.408 162.753
+274 /home/hk-project-toolbox/fj0219/instances/2023/DLTM_twitter690_74_16.cnf 10 2.497
+275 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_13.cnf 20 44.643 57.732
+276 /home/hk-project-toolbox/fj0219/instances/2023/28_2.cnf 0 1800
+277 /home/hk-project-toolbox/fj0219/instances/2023/rbsat-v760c43649gyes5.cnf 10 0.513
+278 /home/hk-project-toolbox/fj0219/instances/2023/grs-96-32.cnf 20 15.132
+279 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_18.cnf 20 58.622 84.344
+28 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_473_E_45_Cl_32_D_6_T_50.cnf 0 1800
+280 /home/hk-project-toolbox/fj0219/instances/2023/32_0.cnf 0 1800
+281 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_37.cnf 10 9.675
+282 /home/hk-project-toolbox/fj0219/instances/2023/DivS_942_11.cnf.sanitized.cnf 10 5.009
+283 /home/hk-project-toolbox/fj0219/instances/2023/cliquecoloring_n18_k7_c6.cnf 0 1800
+284 /home/hk-project-toolbox/fj0219/instances/2023/brent_69_0.3.cnf 10 0.821
+285 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_6_5_6.bul_.dimacs.cnf 10 95.745
+286 /home/hk-project-toolbox/fj0219/instances/2023/vmpc_28.shuffled-as.sat05-1957.cnf 10 0.843
+287 /home/hk-project-toolbox/fj0219/instances/2023/mchess16-mixed-45percent-blocked.cnf 20 3.229 9.606
+288 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H4_M2-LOD9_m0_2_U19.c.cnf 20 11.947 76.346
+289 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_25.cnf 20 80.677 132.609
+29 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_24_70_10.apx_1_DC-ST.cnf 20 5.472 170.367
+290 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_476_E_50_Cl_32_D_6_T_50.cnf 10 15.415
+291 /home/hk-project-toolbox/fj0219/instances/2023/brent_51_0.28.cnf 10 4.292
+292 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_8_4_8.bul_.dimacs.cnf 0 1800
+293 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_8_4_7.bul_.dimacs.cnf 10 45.190
+294 /home/hk-project-toolbox/fj0219/instances/2023/mod4block_2vars_10gates_u2_autoenc-sc2009.cnf 10 2.287
+295 /home/hk-project-toolbox/fj0219/instances/2023/aes_decry_2_rounds.debugged.cnf 20 13.342 21.925
+296 /home/hk-project-toolbox/fj0219/instances/2023/T87.2.0.cnf 20 31.879 35.223
+297 /home/hk-project-toolbox/fj0219/instances/2023/mchess22-mixed-25percent-blocked.cnf 0 1800
+298 /home/hk-project-toolbox/fj0219/instances/2023/rbsat-v760c43649gyes10.cnf 10 0.559
+299 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.22.cnf 10 0.605
+3 /home/hk-project-toolbox/fj0219/instances/2023/grs-48-160.cnf 20 130.122
+30 /home/hk-project-toolbox/fj0219/instances/2023/WCNFPlus_from_fp_13.cnf 0 1800
+300 /home/hk-project-toolbox/fj0219/instances/2023/REGRandom-K4-L3-Seed15.cnf 0 1800
+301 /home/hk-project-toolbox/fj0219/instances/2023/shuffling-2-s1480152728-of-bench-sat04-434.used-as.sat04-711.cnf 20 18.195 27.442
+302 /home/hk-project-toolbox/fj0219/instances/2023/Schur_160_5_d34.cnf 10 2.144
+303 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-87.cnf 10 1.544
+304 /home/hk-project-toolbox/fj0219/instances/2023/intervals727.cnf 0 1800
+305 /home/hk-project-toolbox/fj0219/instances/2023/intervals855.cnf 0 1800
+306 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_486_E_50_Cl_33_D_6_T_50.cnf 10 14.152
+307 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H9_M2-LSGb5PgEM_m2_7.c.cnf 10 20.890
+308 /home/hk-project-toolbox/fj0219/instances/2023/goldcrest-and-16.cnf 0 1800
+309 /home/hk-project-toolbox/fj0219/instances/2023/mod2c-rand3bip-sat-250-2.shuffled-as.sat05-2534.cnf 10 3.127
+31 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_8_4_9.bul.dimacs.cnf 0 1800
+310 /home/hk-project-toolbox/fj0219/instances/2023/GzipFile_close_11.cnf 20 8.979 240.702
+311 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_500.cnf 0 1800
+312 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.15.cnf 10 0.583
+313 /home/hk-project-toolbox/fj0219/instances/2023/DivS_568_11.cnf.sanitized.cnf 10 3.361
+314 /home/hk-project-toolbox/fj0219/instances/2023/ER_500_30_3.apx_2_DC-ST.cnf 20 4.017 129.575
+315 /home/hk-project-toolbox/fj0219/instances/2023/clqcolor-08-06-07.shuffled-as.sat05-1257.cnf 20 0.901 3.596
+316 /home/hk-project-toolbox/fj0219/instances/2023/posixpath__joinrealpath_13.cnf 0 1800
+317 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_22.cnf 20 70.416
+318 /home/hk-project-toolbox/fj0219/instances/2023/rphp_p20_r20.cnf 0 1800
+319 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.2.cnf 10 0.988
+32 /home/hk-project-toolbox/fj0219/instances/2023/vmpc_24.cnf 10 0.479
+320 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.cnf 10 0.684
+321 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-82.cnf 10 0.708
+322 /home/hk-project-toolbox/fj0219/instances/2023/php17-mixed-35percent-blocked.cnf 20 3.013 82.288
+323 /home/hk-project-toolbox/fj0219/instances/2023/g2-T99.2.0.cnf 20 8.016 9.048
+324 /home/hk-project-toolbox/fj0219/instances/2023/ER_500_10_5.apx_2_DC-ST.cnf 0 1800
+325 /home/hk-project-toolbox/fj0219/instances/2023/rand_net70-40-10.shuffled.cnf 20 1.806 2.687
+326 /home/hk-project-toolbox/fj0219/instances/2023/em_11_3_4_cmp.cnf 10 4.789
+327 /home/hk-project-toolbox/fj0219/instances/2023/jkkk-one-one-11-32-unsat.cnf 20 8.214 32.893
+328 /home/hk-project-toolbox/fj0219/instances/2023/php15-mixed-15percent-blocked.cnf 20 67.106
+329 /home/hk-project-toolbox/fj0219/instances/2023/WS_500_32_50_10.apx_2_DC-AD.cnf 0 1800
+33 /home/hk-project-toolbox/fj0219/instances/2023/brent_69_0.05.cnf 10 0.606
+330 /home/hk-project-toolbox/fj0219/instances/2023/intervals80.cnf 0 1800
+331 /home/hk-project-toolbox/fj0219/instances/2023/intervals788.cnf 0 1800
+332 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H13_M2-NBRdIKEb8MS2W_m3_5.c.cnf 10 4.983
+333 /home/hk-project-toolbox/fj0219/instances/2023/iso-icl004.shuffled-as.sat05-3238.cnf 20 0.324 0.443
+334 /home/hk-project-toolbox/fj0219/instances/2023/tph8.cnf 0 1800
+335 /home/hk-project-toolbox/fj0219/instances/2023/PRP_30_36.cnf 10 10.019
+336 /home/hk-project-toolbox/fj0219/instances/2023/mm-1x10-10-10-sb.1.shuffled-as.sat03-1489.cnf 10 2.074
+337 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-10600.cnf 20 44.510 270.572
+338 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_8_4_10.bul.dimacs.cnf 0 1800
+339 /home/hk-project-toolbox/fj0219/instances/2023/brent_9_0.cnf 20 11.305 23.407
+34 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_8_4_7.bul_.dimacs.cnf 10 13.810
+340 /home/hk-project-toolbox/fj0219/instances/2023/intervals718.cnf 0 1800
+341 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.1.cnf 10 1.364
+342 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-900-27.cnf 10 5.312
+343 /home/hk-project-toolbox/fj0219/instances/2023/multiplier_14bits__miter_14.cnf 20 54.985 191.255
+344 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H4_M2-ldRf_m1_2_U21.c.cnf 20 17.259 147.074
+345 /home/hk-project-toolbox/fj0219/instances/2023/grs-48-128.cnf 20 75.846 1018.624
+346 /home/hk-project-toolbox/fj0219/instances/2023/Urquhart-s5-b4.shuffled.cnf 0 1800
+347 /home/hk-project-toolbox/fj0219/instances/2023/or_randxor_k3_n540_m540.cnf 0 1800
+348 /home/hk-project-toolbox/fj0219/instances/2023/TimetableCNFEncoding_20_UNKNOWN.cnf 10 10.534
+349 /home/hk-project-toolbox/fj0219/instances/2023/mchess16-mixed-35percent-blocked.cnf 20 4.046 11.743
+35 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_17.cnf 20 53.864 75.475
+350 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H9_M2-wNfQskE8G_m1_6_U0.c.cnf 20 26.542 220.979
+351 /home/hk-project-toolbox/fj0219/instances/2023/mchess16-mixed-25percent-blocked.cnf 20 5.107 14.118
+352 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_grid_n100_m100.cnf 0 1800
+353 /home/hk-project-toolbox/fj0219/instances/2023/mp1-klieber2017s-1600-022-eq.cnf 20 6.969 13.784
+354 /home/hk-project-toolbox/fj0219/instances/2023/iso-brn100.shuffled-as.sat05-3025.cnf 10 0.280
+355 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-44.cnf 10 0.692
+356 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-1000-20.cnf 10 1.771
+357 /home/hk-project-toolbox/fj0219/instances/2023/WCNFPlus_to_alien_14.cnf 0 1800
+358 /home/hk-project-toolbox/fj0219/instances/2023/brent_51_0.29.cnf 10 0.737
+359 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_8_3_10.bul_.dimacs.cnf 0 1800
+36 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_6_4_6.bul_.dimacs.cnf 0 1800
+360 /home/hk-project-toolbox/fj0219/instances/2023/brent_71_0.25.cnf 10 0.592
+361 /home/hk-project-toolbox/fj0219/instances/2023/24_0.cnf 0 1800
+362 /home/hk-project-toolbox/fj0219/instances/2023/TableSymModel_output_8_3_10.bul_.dimacs.cnf 0 1800
+363 /home/hk-project-toolbox/fj0219/instances/2023/29_1.cnf 0 1800
+364 /home/hk-project-toolbox/fj0219/instances/2023/or_randxor_k3_n520_m520.cnf 20 99.701
+365 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_150.cnf 10 303.349
+366 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_484_E_50_Cl_33_D_6_T_50.cnf 10 14.715
+367 /home/hk-project-toolbox/fj0219/instances/2023/intervals607.cnf 0 1800
+368 /home/hk-project-toolbox/fj0219/instances/2023/patat-08-comp-3.cnf 10 2.730
+369 /home/hk-project-toolbox/fj0219/instances/2023/Urquhart-s3-b3.shuffled-as.sat03-1556.cnf 20 0.992 5.233
+37 /home/hk-project-toolbox/fj0219/instances/2023/15pipe_q0_k.cnf 20 112.232 151.068
+370 /home/hk-project-toolbox/fj0219/instances/2023/pyhala-braun-sat-35-4-04.shuffled.cnf 10 0.491
+371 /home/hk-project-toolbox/fj0219/instances/2023/sat-bench-trig-taylor4.cnf 0 1800
+372 /home/hk-project-toolbox/fj0219/instances/2023/c880_gr_rcs_w7.shuffled.cnf 10 0.296
+373 /home/hk-project-toolbox/fj0219/instances/2023/grid_10_20.shuffled.cnf 20 0.342 0.458
+374 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H7_M2-gHvzZOd_m3_4_U11.c.cnf 20 15.821 95.941
+375 /home/hk-project-toolbox/fj0219/instances/2023/3col120_5_2.shuffled.cnf 10 0.303
+376 /home/hk-project-toolbox/fj0219/instances/2023/22_1.cnf 0 1800
+377 /home/hk-project-toolbox/fj0219/instances/2023/brent_51_0.07.cnf 10 0.542
+378 /home/hk-project-toolbox/fj0219/instances/2023/combined-crypto1-wff-seed-101-wffvars-500-cryptocplx-31-overlap-2.cnf 10 0.485
+379 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_6_5_6.bul_.dimacs.cnf 10 0.712
+38 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-5920.cnf 20 28.104 171.547
+380 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_26.cnf 20 90.813 153.238
+381 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-9080.cnf 20 33.497 215.921
+382 /home/hk-project-toolbox/fj0219/instances/2023/brent_63_0.26.cnf 10 1.039
+383 /home/hk-project-toolbox/fj0219/instances/2023/satsgi-n23himBHm26-p0-q248.cnf 10 0.329
+384 /home/hk-project-toolbox/fj0219/instances/2023/g2-T49.2.0.cnf 20 55.615 65.502
+385 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_19.cnf 20 59.592 90.057
+386 /home/hk-project-toolbox/fj0219/instances/2023/ER_500_10_1.apx_1_DC-AD.cnf 0 1800
+387 /home/hk-project-toolbox/fj0219/instances/2023/oisc-subrv-sll-nested-15.cnf 0 1800
+388 /home/hk-project-toolbox/fj0219/instances/2023/hwmcc10-timeframe-expansion-k45-nusmvguidancep9-tseitin.cnf 20 1.575 1.978
+389 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_20.cnf 20 67.804 95.979
+39 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_d3_n110000.cnf 0 1800
+390 /home/hk-project-toolbox/fj0219/instances/2023/intervals961.cnf 0 1800
+391 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_d3_n180000.cnf 0 1800
+392 /home/hk-project-toolbox/fj0219/instances/2023/rphp_p60_r60.cnf 0 1800
+393 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_300.cnf 0 1800
+394 /home/hk-project-toolbox/fj0219/instances/2023/satcoin-genesis-UNSAT-17800.cnf 20 59.450 471.378
+395 /home/hk-project-toolbox/fj0219/instances/2023/os_fwalk_12.cnf 20 172.303
+396 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H12_M2-CxLJidFX21oI_m3_6_U2.c.cnf 20 25.762 205.523
+397 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_478_E_50_Cl_32_D_6_T_50.cnf 10 14.780
+398 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_482_E_50_Cl_33_D_6_T_50.cnf 10 15.389
+399 /home/hk-project-toolbox/fj0219/instances/2023/srhd-sgi-m37-q446.25-n35-p30-s33692332.cnf 10 0.359
+4 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_450.cnf 0 1800
+40 /home/hk-project-toolbox/fj0219/instances/2023/cliquecoloring_n16_k7_c6.cnf 0 1800
+400 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_473_E_52_Cl_32_D_6_T_50.cnf 10 14.312
+41 /home/hk-project-toolbox/fj0219/instances/2023/TableModel_output_8_4_8.bul_.dimacs.cnf 0 1800
+42 /home/hk-project-toolbox/fj0219/instances/2023/16_1.cnf 0 1800
+43 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H8_M2-1yQCyA0j_m2_6.c.cnf 10 9.732
+44 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_24.cnf 20 81.488 130.481
+45 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_24_90_10.apx_2_DC-AD.cnf 20 10.483 232.244
+46 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H9_M2-Jdds95CIv_m1_5.c.cnf 10 7.598
+47 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-900-31.cnf 10 9.258
+48 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H5_M2-A8qZX_m0_3_U23.c.cnf 20 17.316 148.078
+49 /home/hk-project-toolbox/fj0219/instances/2023/27_1.cnf 0 1800
+5 /home/hk-project-toolbox/fj0219/instances/2023/brent_67_0.05.cnf 10 0.758
+50 /home/hk-project-toolbox/fj0219/instances/2023/grs-96-96.cnf 20 76.256 1026.205
+51 /home/hk-project-toolbox/fj0219/instances/2023/posixpath_expanduser_14.cnf 0 1800
+52 /home/hk-project-toolbox/fj0219/instances/2023/SAT_dat.k10.cnf 20 14.739 18.377
+53 /home/hk-project-toolbox/fj0219/instances/2023/spg_200_307.cnf 20 7.270 8.780
+54 /home/hk-project-toolbox/fj0219/instances/2023/BZ2File_write_11.cnf 20 8.486 224.972
+55 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_474_E_50_Cl_32_D_6_T_50.cnf 10 10.841
+56 /home/hk-project-toolbox/fj0219/instances/2023/stb_588_138.apx_2_DS-ST.cnf 10 2.037
+57 /home/hk-project-toolbox/fj0219/instances/2023/ContextModel_output_7_3_9.bul_.dimacs.cnf 10 1.528
+58 /home/hk-project-toolbox/fj0219/instances/2023/sat-bench-trig-taylor6.cnf 0 1800
+59 /home/hk-project-toolbox/fj0219/instances/2023/brent_51_0.17.cnf 10 0.759
+6 /home/hk-project-toolbox/fj0219/instances/2023/6s166.cnf 20 2.479 3.319
+60 /home/hk-project-toolbox/fj0219/instances/2023/PRP_20_40.cnf 10 6.246
+61 /home/hk-project-toolbox/fj0219/instances/2023/mrpp_4x4#12_12.cnf 20 2.964 5.645
+62 /home/hk-project-toolbox/fj0219/instances/2023/stb_418_125.apx_2_DC-ST.cnf 20 4.664 149.331
+63 /home/hk-project-toolbox/fj0219/instances/2023/mchess18-mixed-35percent-blocked.cnf 20 22.691 48.034
+64 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_350.cnf 0 1800
+65 /home/hk-project-toolbox/fj0219/instances/2023/php-010-009.shuffled-as.sat05-1185.cnf 20 0.954 10.988
+66 /home/hk-project-toolbox/fj0219/instances/2023/goldberg03:hard_eq_check:i10mul.miter.used-as.sat04-333.cnf 20 7.735 11.210
+67 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_480_E_50_Cl_32_D_6_T_50.cnf 10 7.640
+68 /home/hk-project-toolbox/fj0219/instances/2023/php18-mixed-35percent-blocked.cnf 20 4.668 145.596
+69 /home/hk-project-toolbox/fj0219/instances/2023/PRP_100_400.cnf 0 1800
+7 /home/hk-project-toolbox/fj0219/instances/2023/rphp_p8_r250.cnf 0 1800
+70 /home/hk-project-toolbox/fj0219/instances/2023/asconhashv12_opt64_H13_M2-axxJh7DAq767y_m4_5.c.cnf 10 8.904
+71 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_483_E_50_Cl_33_D_6_T_50.cnf 10 14.795
+72 /home/hk-project-toolbox/fj0219/instances/2023/mchess20-mixed-35percent-blocked.cnf 20 119.714 200.944
+73 /home/hk-project-toolbox/fj0219/instances/2023/intervals122.cnf 0 1800
+74 /home/hk-project-toolbox/fj0219/instances/2023/6g_6color_366_050_04.cnf 10 10.012
+75 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-800-49.cnf 10 1.486
+76 /home/hk-project-toolbox/fj0219/instances/2023/SCPC-700-88.cnf 10 1.485
+77 /home/hk-project-toolbox/fj0219/instances/2023/intervals553.cnf 0 1800
+78 /home/hk-project-toolbox/fj0219/instances/2023/satch2ways15u.cnf 20 15.479 144.059
+79 /home/hk-project-toolbox/fj0219/instances/2023/6s20-sc2013.cnf 20 33.707 71.335
+8 /home/hk-project-toolbox/fj0219/instances/2023/tseitin_d3_n10000.cnf 0 1800
+80 /home/hk-project-toolbox/fj0219/instances/2023/g2-slp-synthesis-aes-top29.cnf 10 6.518
+81 /home/hk-project-toolbox/fj0219/instances/2023/unsat-set-b-fclqcolor-10-07-09.sat05-1282.reshuffled-07.cnf 20 10.903 193.293
+82 /home/hk-project-toolbox/fj0219/instances/2023/mchess18-mixed-25percent-blocked.cnf 20 25.657 67.532
+83 /home/hk-project-toolbox/fj0219/instances/2023/intervals803.cnf 0 1800
+84 /home/hk-project-toolbox/fj0219/instances/2023/eqspctbk14spwtcl14.cnf 0 1800
+85 /home/hk-project-toolbox/fj0219/instances/2023/pmg-12-UNSAT.sat05-3940.reshuffled-07.cnf 20 88.670 574.604
+86 /home/hk-project-toolbox/fj0219/instances/2023/WCNF_to_alien_14.cnf 0 1800
+87 /home/hk-project-toolbox/fj0219/instances/2023/multiplier_15bits__miter_20.cnf 20 168.353 664.630
+88 /home/hk-project-toolbox/fj0219/instances/2023/php18-mixed-15percent-blocked.cnf 0 1800
+89 /home/hk-project-toolbox/fj0219/instances/2023/spg_420_280.cnf 20 7.192 8.499
+9 /home/hk-project-toolbox/fj0219/instances/2023/SC23_Timetable_C_481_E_51_Cl_32_D_6_T_50.cnf 10 14.978
+90 /home/hk-project-toolbox/fj0219/instances/2023/21_1.cnf 0 1800
+91 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_12.cnf 20 39.550 49.582
+92 /home/hk-project-toolbox/fj0219/instances/2023/WS_400_24_70_10.apx_2_DC-ST.cnf 20 4.451 135.341
+93 /home/hk-project-toolbox/fj0219/instances/2023/intervals244.cnf 0 1800
+94 /home/hk-project-toolbox/fj0219/instances/2023/CNF_to_alien_11.cnf 20 7.976 201.600
+95 /home/hk-project-toolbox/fj0219/instances/2023/ferry8_ks99i.renamed-as.sat05-4005.cnf 10 0.338
+96 /home/hk-project-toolbox/fj0219/instances/2023/18_1.cnf 0 1800
+97 /home/hk-project-toolbox/fj0219/instances/2023/intervals477.cnf 0 1800
+98 /home/hk-project-toolbox/fj0219/instances/2023/hash_table_find_safety_size_21.cnf 20 63.519 97.100
+99 /home/hk-project-toolbox/fj0219/instances/2023/tseitingrid7x160_shuffled-sc2016.cnf 0 1800
