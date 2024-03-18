@@ -35,6 +35,7 @@ build/mallob -mono=$f -jwl=$timeout -wam=60``000 \
 `#sharingsetup` -scll=60 -slbdl=60 -csm=3 -cfm=3 -cfci=30 -mscf=5 -bem=1 -aim=1 -rlbd=0 -ilbd=1 -randlbd=0 -scramble-lbds=0 \
 `#sharingvolume` -s=0.5 -cbbs=$cbbs -cblm=1 -cblp=250``000 -cusv=1 \
 `#randomseed` -seed=0 \
+`#disable checking models in on-the-fly checking` -otfcm=0 \
 $proofopts
 "
 
