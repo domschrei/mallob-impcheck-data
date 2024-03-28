@@ -1,5 +1,7 @@
-# mallob-impcheck-data
-Software references and experimental data for SAT'24 submission "Scalable Trusted SAT Solving with on-the-fly LRAT Checking"
+# Scalable Trusted SAT Solving with on-the-fly LRAT Checking
+
+This repository features the software references and experimental data for the 2024 SAT conference submission titled as above.
+A non-reviewed preprint of this paper is available at [paper-preprint.pdf](paper-preprint.pdf).
 
 ## Software
 
